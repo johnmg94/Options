@@ -1,0 +1,1 @@
+Got 'too many requrests' error. I don't even think I got options data for requests that did go through. Need another approach
